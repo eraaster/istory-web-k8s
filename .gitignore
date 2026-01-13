@@ -30,6 +30,9 @@ out/
 !**/src/main/**/out/
 !**/src/test/**/out/
 
+**/.env.secret
+.github/secret.sh
+
 ### NetBeans ###
 /nbproject/private/
 /nbbuild/
@@ -39,3 +42,4 @@ out/
 
 ### VS Code ###
 .vscode/
+.github/secret.sh
